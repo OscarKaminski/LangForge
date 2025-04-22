@@ -1,2 +1,3 @@
 # LangForge
-A way to write code in your language.
+A way to write code in *your* language.
+## About
